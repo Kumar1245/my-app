@@ -2,7 +2,7 @@ import React from "react";
 import Component1 from "./Component1";
 
 const DemoProps = () => {
-  const name = "Pankaj";
+  const name = "Prashant";
   return (
     <div>
       <Component1 name={name} />
